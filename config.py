@@ -1,0 +1,2 @@
+TELEGRAM_API_TOKEN = "<bot_token>"
+TELEGRAM_CHAT_ID = ""
