@@ -24,7 +24,6 @@ pip install -r requirements.txt
 
 - `TELEGRAM_API_TOKEN`: Your Telegram API token.
 - `TELEGRAM_CHAT_ID`: The chat ID where the bot will send messages.
-- Other relevant settings such as website URLs, credentials, etc.
 
 5. Run the Bot: Execute the following command to run the bot:
 
